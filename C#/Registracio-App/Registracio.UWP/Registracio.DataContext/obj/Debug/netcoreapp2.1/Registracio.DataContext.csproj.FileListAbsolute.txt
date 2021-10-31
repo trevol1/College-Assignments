@@ -1,0 +1,12 @@
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\bin\Debug\netcoreapp2.1\Registracio.DataContext.deps.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\bin\Debug\netcoreapp2.1\Registracio.DataContext.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\bin\Debug\netcoreapp2.1\Registracio.DataContext.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.DataContext\obj\Debug\netcoreapp2.1\Registracio.DataContext.pdb

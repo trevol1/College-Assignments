@@ -1,0 +1,16 @@
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Database.deps.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Database.runtimeconfig.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Database.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Database.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Database.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.DataContext.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.DataContext.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.csproj.CopyComplete
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.1\Registracio.Database.pdb

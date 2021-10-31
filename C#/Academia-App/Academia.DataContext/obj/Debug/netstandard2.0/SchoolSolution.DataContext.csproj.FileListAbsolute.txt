@@ -1,0 +1,72 @@
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\bin\Debug\netstandard2.0\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.DataContext\obj\Debug\netstandard2.0\SchoolSolution.DataContext.pdb

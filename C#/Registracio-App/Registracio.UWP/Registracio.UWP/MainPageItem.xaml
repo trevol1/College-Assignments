@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="Registracio.UWP.MainPageItem"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Registracio.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ListBox x:Name="itemsList" Margin="0, 0, 0, 50">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Padding="20" Margin="20" Background="DarkGray">
+                        <TextBlock Text="{Binding Name}" FontSize="55"/>
+                        <TextBox Text="" PlaceholderText="Here comes the list of Items from database" Margin="150,250,150,500" TextAlignment="Center" FontSize="48"></TextBox>
+                     </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <TextBox Text="TextBox"/>
+        </ListBox>
+
+
+        <AppBar>
+            <StackPanel>
+                <AppBarButton Icon="Add" Label="Add New" HorizontalAlignment="Right" Margin="0,0,75,0" VerticalAlignment="Top" Click="BtnAddNew_Click_Item"/>
+                <AppBarButton Icon="Delete" Label="Delete" HorizontalAlignment="Right" Margin="0,-55,0,0" VerticalAlignment="Top" Click="BtnDelete_Click_Item"/>
+                <AppBarButton Icon="People" Label="Employees" HorizontalAlignment="Left" Margin="0,-55,0,0" VerticalAlignment="Top" Click="BtnEmployeesList_Click_Employee"/>
+            </StackPanel>
+        </AppBar>
+    </Grid>
+</Page>

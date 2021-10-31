@@ -1,0 +1,4 @@
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\Registracio.Database.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\Registracio.Database.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\Registracio.Database.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\Registracio.Database.AssemblyInfo.cs

@@ -1,0 +1,126 @@
+DEL 2.
+a) 
+SELECT name FROM world
+  WHERE continent = 'Europe'
+  
+ b)
+ SELECT name FROM world
+  WHERE NOT continent = 'Europe'
+  
+			c)
+  
+ d)
+SELECT name FROM world
+  WHERE population<1000
+
+		e)
+		  SELECT name, population FROM world
+		 WHERE continent = "Africa"
+ 
+f)
+SELECT name, population, area FROM world
+ WHERE population>100000000
+order by population DESC
+
+g)
+SELECT name, population, area FROM world
+ WHERE continent = "Europe"
+order by population/area DESC
+
+h)
+SELECT name, population, area FROM world
+   WHERE name='Luxembourg'
+OR name='Belgium'
+OR name='Netherlands'
+
+i)
+SELECT name, population, area FROM world
+   WHERE name IN ('Luxembourg','Belgium','Netherlands')
+   
+j)
+SELECT name, population FROM world
+WHERE population
+BETWEEN '4000000' AND '8000000' 
+OR population>100000000
+
+k)
+SELECT name, population FROM world
+WHERE population <8000000 AND population>4000000 
+OR population>100000000
+
+		l)
+		SELECT name, population FROM world
+		 WHERE population<5000000 AND continent='Africa' OR 'Europe' 
+ 
+		m)
+ 
+		 n)SELECT name, population FROM world
+		 WHERE continent='Asia' AND population<10000000
+
+		 o)
+		 SELECT DISTINCT continent FROM world
+
+p) 
+SELECT name FROM world
+ WHERE name LIKE 'R%'
+ 
+q)
+SELECT name FROM world
+ WHERE name LIKE '% %'
+ 
+r)
+SELECT name FROM world
+ WHERE continent LIKE '% America'
+
+s)
+SELECT name FROM world
+ WHERE name LIKE '%stan'
+
+t)
+SELECT name FROM world
+ WHERE name LIKE '%sia%'
+
+u)
+SELECT name FROM world
+ WHERE name LIKE 'T%sia%'
+ 
+ SELECT name FROM world
+ WHERE name LIKE '%sia%' AND name LIKE 'T%'
+ 
+ v)
+ SELECT name FROM world
+ WHERE name LIKE 's%' OR name LIKE '%land%'
+ 
+ w)
+ SELECT DISTINCT continent FROM world
+ WHERE continent LIKE 'Europ%'
+
+ x)
+ SELECT name FROM world
+ WHERE name LIKE 'I%land'
+		ICELAND, IRELAND
+
+y)
+		
+		
+DEL 3
+
+a)
+select sum(population)from world
+6813394150
+
+b)
+select sum(population)from world
+where continent = "asia"
+4133508327		
+
+c)
+select count(name) from world
+203
+
+d)
+select count(name) from world
+WHERE continent='europe'
+49
+
+4 timer

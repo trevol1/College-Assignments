@@ -1,0 +1,12 @@
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\Academia.DataContext.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\Academia.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\Academia.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\Academia.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\bin\Debug\netstandard2.0\Academia.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DataContext\obj\Debug\netstandard2.0\Academia.DataContext.pdb

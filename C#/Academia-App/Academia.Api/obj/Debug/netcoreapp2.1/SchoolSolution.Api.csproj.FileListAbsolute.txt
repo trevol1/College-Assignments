@@ -1,0 +1,114 @@
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.Api.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Api\obj\Debug\netcoreapp2.1\SchoolSolution.Api.pdb

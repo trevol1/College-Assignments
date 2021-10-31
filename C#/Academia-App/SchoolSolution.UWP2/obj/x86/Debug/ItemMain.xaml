@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="Registracio.UWP.ItemMain"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Registracio.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:model="using:Registracio.Model"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ListBox x:ConnectionId='2' x:Name="itemsList" Margin="0, 0, 0, 50" >
+            <ListBox.ItemTemplate>
+                <DataTemplate                         >
+                    <StackPanel x:ConnectionId='9' HorizontalAlignment="Left" Width="200" Height="100">
+                        <TextBlock x:ConnectionId='10' x:Name="ItemShow"                          />
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <TextBox Text="TextBox"/>
+        </ListBox>
+        <StackPanel Height="151" Margin="1150,700,10,0">
+            <TextBox x:ConnectionId='7' x:Name="itemUpdateTb" PlaceholderText="Full Name" Margin="10,0,10,0" TextAlignment="Left" RenderTransformOrigin="0.497,1.711" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+            <Button x:ConnectionId='8' x:Name="BtnEditingItem" Margin="20,10,0,0" Width="300" Height="30" Content="Save Changes" HorizontalAlignment="Left" VerticalAlignment="Top"                          />
+        </StackPanel>
+
+        <AppBar>
+            <StackPanel>
+                <AppBarButton x:ConnectionId='3' Icon="Add" Label="Add New" HorizontalAlignment="Right" Margin="0,10,135,0" VerticalAlignment="Top"                             />
+                <AppBarButton x:ConnectionId='4' Icon="Delete" Label="Delete" HorizontalAlignment="Right" Margin="0,-55,0,0" VerticalAlignment="Top"                             />
+                <AppBarButton x:ConnectionId='5' Icon="Edit" Label="Update" HorizontalAlignment="Right" Margin="0,-55,75,0" VerticalAlignment="Top"                             />
+                <AppBarButton x:ConnectionId='6' Icon="People" Label="Employees" HorizontalAlignment="Left" Margin="0,-55,0,0" VerticalAlignment="Top"                                        />
+            </StackPanel>
+        </AppBar>
+    </Grid>
+</Page>
+

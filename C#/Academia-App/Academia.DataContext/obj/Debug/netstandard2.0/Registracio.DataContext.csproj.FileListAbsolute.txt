@@ -1,0 +1,4 @@
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\Registracio.DataContext.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\Registracio.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\Registracio.DataContext.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DataContext\obj\Debug\netstandard2.0\Registracio.DataContext.AssemblyInfo.cs

@@ -1,0 +1,269 @@
+Oblig 1 – Databaser vår 2013.
+
+Det meste av denne oppgaven baserer seg på siden SQLZoo (www.sqlzoo.net)
+Helst 01.02, absolutt siste frist: 04.02. Leveres på Fronter. Du kan alternativt levere oppgavene til gruppelærer i timene. Dersom dere får problemer med innleveringen, ta kontakt med gruppelærer umiddelbart.
+ Det er mange oppgaver og en mange timers arbeid – beregn 10-20 timer. Bruk lærebøker, eksempler m.m.!
+ Du skal ha forsøkt på minst 80% av oppgavene. Det aller meste skal være riktig for å få godkjent. Vær forberedt på at det blir muntlig spørsmål alene eller i grupper hvor du forklarer hvorledes du tenkte da du laget de ulike SQL-setningene.
+ Pass på at du får hjelp underveis!
+ Oppgaven skal normalt innleveres individuelt. Samarbeid gjerne, men pass å gjøre alt selv. Dersom dere velger å samarbeide i grupper på 2-3 om mye eller alt, gjør dere en felles innlevering.
+ Innleveringen skal bestå av SQL-setninger som er kjørt i mySQL eller et annet databasesystem, evt. forklaringer som det er spurt om.
+For de som ikke allerede har gjort det: Pass på at databasen + et grafisk brukergrensesnitt er installert på den maskinen du skal arbeide med. Hvis du bruker mySQL kan dette hentes fra mysql.com, last ned alt, evt. bare last ned mySQL Workbench dersom mySQL database finnes på din maskin allerede. Den trengs for oppgave 4, men bør installeres ASAP slik at du kan få hjelp hvis du får tekniske problemer med dette. Foreleser har testet den under Windows og Linux Mint, den skal også fungere like greit på Mac. Har du en iPad 2, kan du kjøre klienten der, mens selve databasen må kobles opp via en eller annen ekstern oppkobling (f.eks. Mocha RDP).
+
+Del 1:
+Gå gjennom Tutorial 1, Select Basics, prøv gjerne å gjøre små forandringer på spørringene selv.
+Ingen innlevering av dette.
+
+Del 2:
+Bruk Tutorial 2 (Select from World) til å gjennomføre spørringene under. Bruk f.eks. det øverste vinduet. NB! Du vil som regel få beskjed om «Wrong answer» el.l., fordi du gjør en annen spørring en den som er forutsatt. Bry deg ikke om det!
+Enkle spørringer.
+
+a) Hent ut alle land som ligger i Europa.
+
+	SELECT name FROM world
+	WHERE continent = 'Europe'
+  
+b) Hent ut alle land som ikke ligger i Europa.
+
+	SELECT name FROM world
+	WHERE NOT continent = 'Europe'
+  
+  
+c) Finnes det land som ikke har oppgitt noen befolkning? NB! Både spørringen og landet skal oppgis.
+
+	SELECT name FROM world 
+	WHERE population IS NULL
+		Svar: C?te d'Ivoire
+
+d) Lilleputtstater: Skriv ut land med mindre enn 1000 mennesker.
+
+	SELECT name FROM world
+	WHERE population<1000
+	  
+	o Tillegg: Kommer da landet/ene fra forrige spørring opp? Hvorfor/hvorfor ikke?
+	o Hvis det ikke kommer med: hvordan kan vi sørge for at det kommer med?
+
+e) Vis navn og befolkning i antall millioner for landene i Afrika. Hint: divider med 1 mill.
+
+	SELECT name, population/1000000 FROM world
+	WHERE continent = "Africa"
+		 
+f) Skriv ut navn, befolkning og areal på land med mer enn 100 millioner mennesker, sortert slik at de mest folkerike landene kommer først.
+
+	SELECT name, population, area FROM world 
+	WHERE population>100000000
+	order by population DESC
+
+g) Hent ut navn og befolkningstetthet (befolkning / areal) for alle land i Europa, sortert slik at de tettest befolkede kommer øverst. Hint: det går an å ha 	beregninger i order by-setningen.
+
+	SELECT name, population, area FROM world
+	WHERE continent = "Europe"
+	order by population/area DESC
+
+h) Skriv ut land navn, folketall og areal for BeNeLux-landene. Bruk OR
+
+	SELECT name, population, area FROM world
+	WHERE name='Luxembourg'
+	OR name='Belgium'
+	OR name='Netherlands'
+
+i) Kan gjøres på en annen måte enn du gjorde i forrige oppgave. Bruk in-operatoren.
+
+	SELECT name, population, area FROM world
+	WHERE name IN ('Luxembourg','Belgium','Netherlands')
+   
+j) Hvilke land bor det mellom 4 og 8 millioner eller over 100000000 mennesker i? Oppgi navn og befolkning. Bruk between.
+
+	SELECT name, population FROM world
+	WHERE population
+	BETWEEN '4000000' AND '8000000' 
+	OR population>100000000
+
+k) Som over, men uten between.
+
+	SELECT name, population FROM world
+	WHERE population <8000000 AND population>4000000 
+	OR population>100000000
+
+l) Hent ut land i Afrika og Europa har mindre enn 5 mill mennesker.
+
+	SELECT name, population, continent FROM world
+	WHERE population < 5000000 AND continent IN("Africa", "Europe")
+
+m) (Krever kunnskap/forelesningen i logikk). Den distributive lov for logikk kan brukes til å formulere dette på en annen måte. Bruk dette for å formulere den samme 	spørringen på en annen måte.
+
+	Select name, population, continent FROM world
+	WHERE continent  = 'Africa' AND population < 5000000 OR continent = 'Europe' AND population <5000000   
+
+n) Hent ut land i Asia og Europa har mindre enn 10 mill mennesker, dessuten alle land i Oceania.
+
+	SELECT name, population, continent FROM world
+	WHERE continent IN("Asia", "Europe")AND population<10000000 OR continent='Oceania'
+
+o) Hent ut en liste over de verdensdeler som finnes, bortsett fra de som begynner på A. NB! Hver verdensdel skal skrives ut bare en gang.
+
+	SELECT DISTINCT continent FROM world
+	WHERE continent NOT LIKE 'A%'
+
+	
+Delstrenger, distinct.
+
+p) Finn land som begynner på samme forbokstav som navnet ditt. (Hvis navnet ditt begynner på Ø bruker du O i stedet, tilsvarende med Æ og Å).
+
+	SELECT name FROM world
+	WHERE name LIKE 'R%'
+
+q) List ut land som har et sammensatt navn (f.eks. Sri Lanka).
+
+	SELECT name FROM world
+	WHERE name LIKE '% %'
+  
+r) List ut alle land i Nord- og Sør-Amerika. - NB! Dette kan gjøres på (minst) 3 måter. Hvilke? Gjennomfør minst en av disse.
+
+	SELECT name FROM world
+	WHERE continent LIKE '% America'
+	
+	SELECT name FROM world 
+	WHERE continent LIKE ('% %')
+
+	SELECT name FROM world 
+	WHERE continent IN ('South America', 'North America')
+	
+s) Hent ut land som slutter på ’stan’.
+
+	SELECT name FROM world
+	WHERE name LIKE '%stan'
+
+t) Hent ut land som inneholder teksten ’sia’.
+
+	SELECT name FROM world
+	WHERE name LIKE '%sia%'
+
+u) Hent ut land som både begynner på ’T’ og inneholder teksten ’sia’.
+
+	SELECT name FROM world
+	WHERE name LIKE 'T%sia%'
+	
+	o Gjerne to forskjellige løsninger på denne.
+	
+		SELECT name FROM world
+		WHERE name LIKE '%sia%' AND name LIKE 'T%'
+
+
+v) Hent ut land som enten begynner på ’S’ eller inneholder teksten ’land’.
+
+	 SELECT name FROM world
+	 WHERE name LIKE 's%' OR name LIKE '%land%'
+	 
+w) Vi er litt usikre på om vår kontinent er registrert som Europa eller Europe (eller kanskje en annen sistebokstav). Lag en spørring som skriver ut navnet, uten at 	jeg vet om det heter det ene eller det andre. Hint: (_ erstatter nøyaktig 1 tegn).
+
+	SELECT DISTINCT continent FROM world
+	WHERE continent LIKE 'Europ_'
+	
+x) Hvilke land finnes som begynner på I, deretter to tegn som vi ikke er sikker på, deretter ‘land’?
+	
+	SELECT name FROM world
+	WHERE name LIKE 'I%land'
+		ICELAND, IRELAND
+		
+	eller
+	
+	SELECT name FROM world
+	WHERE name LIKE 'I__land'
+		
+		
+Delspørringer, omforminger.
+
+y) List opp land i Europa med mindre folketall enn Norge, sortert på økende folketall. (Hint: delspørring med samme tabell i begge).
+
+	SELECT name, population FROM world 
+	WHERE continent='Europe' AND population<5052800
+	ORDER BY population ASC
+	
+z) List opp navn og kontinent på alle land som er i samme region som Australia og New Zealand. Anta at du ikke vet hvilke kontinenter det er, slik at spørringen må 	«finne ut dette». (Hint. Det er noe med continent in (select continent …. )).
+	
+	SELECT name FROM world 
+	WHERE continent IN (SELECT continent FROM world WHERE name IN ('New Zealand', 'Australia'))
+	
+	o Tillegg: hvorfor går det ikke med continent = (select continent …)?
+
+æ) Hent ut alle land utenom ’Europa’ og ’Afrika’. (Enkel, bruk <> !)
+
+ø) Bruk deMorgans lover for å omforme dette uttrykket
+
+å) Lag tilsvarende SQL-setning – kjør den på nytt og sjekk om du får det samme som over.
+
+
+Del 3: Summering, antall etc., samt «nøtter».
+
+ Funksjonen sum(<uttrykk>) gir summen av et eller annet, f.eks. kan antall mennesker i Afrika beregnes som
+		select sum(population)
+		from world
+		where region = “Africa"
+ Tilsvarende kan man finne antall land i Afrika med setningen select count(name), evt. count(*) ….. Africa…..
+ Tilsvarende finnes også min, max.
+
+
+a) Hvor mange mennesker finnes i verden ifølge denne databasen?
+	
+	select sum(population)from world
+		Svar: 6813394150
+
+b) Hvor mange mennesker finnes i Asia?
+
+	select sum(population)from world
+	where continent = "asia"
+		Svar: 4133508327	
+	
+c) Hvor mange land finnes det i systemet?
+
+	select count(name) from world
+		Svar: 203
+		
+d) Hvor mange land finnes det i Europa?
+
+	select count(name) from world
+	WHERE continent='europe'
+		Svar: 49
+		
+e) Les om group by og skriv ut hvor mange land som finnes pr. verdensdel.
+
+	SELECT count(name), continent FROM world
+	GROUP BY continent
+
+f) Tilsvarende med befolkning, og slik at de mest folkerike verdensdelene kommer først.
+
+	SELECT COUNT(name),name, population, continent FROM world 
+	GROUP BY population DESC
+
+
+g) Hvor stor befolkning har verdens mest folkerike land?
+
+	SELECT max(population), name, continent FROM world
+		Svar: 1347350000
+
+
+h) Nesten nøtt: Hvilket land er det? Bare landsnavnet skal skrives ut.
+	o enten: les om limit 1.
+
+	SELECT name FROM world
+	ORDER BY population desc limit 1
+	
+	o eller: lag en delspørring, hvor betingelsen for utskriften settes i delspørringen.
+	o Hva er generelt fordelen med den siste formuleringen?
+
+
+i) Nøtt 1: Hvor mange prosent er dette av totalbefolkningen? Hint: Det er lovlig med en select i select, altså select (select …….) ……., divisjon, multiplikasjon er 	også lovlig.
+
+	SELECT MAX(population)/(SELECT SUM(population)) * 100 FROM world
+	
+j) Nøtt 2: Det er noen land som ikke har oppgitt nasjonalprodukt. Finn de verdensdeler hvor alle landene har oppgitt nasjonalprodukt. Tips: del oppgaven i flere deler, 	prøv ut en og en del.
+	o Denne kan også gjøres på ulike måter, test gjerne ut flere.
+
+	SELECT DISTINCT w1.continent FROM world w1
+
+            WHERE w1.continent  NOT IN
+            (SELECT w2.continent FROM world w2 WHERE w2.gdp IS NULL)
+
+Oppgave. 5
+
+Brukte ca.12 timer på oppgave 1-3, rakk ikke oppgave 4. 
