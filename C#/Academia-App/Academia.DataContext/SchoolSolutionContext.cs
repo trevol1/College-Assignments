@@ -28,7 +28,7 @@ namespace Registracio.DataContext
     {
         public RegistracioApiContext CreateDbContext(string[] args)
         {
-            var connection = @"Data Source = Donau.hiof.no; Initial Catalog = trevol; User ID = trevol; Password = rTKd47Vt;" ;
+            var connection = @"Data Source = Donau.hiof.no; Initial Catalog = trevol; User ID = trevol; Password =;" ;
 
             var optionsBuilder = new DbContextOptionsBuilder<RegistracioApiContext>();
             optionsBuilder.UseSqlServer(connection, x => x.MigrationsAssembly("SchoolSolution.DataContext"));

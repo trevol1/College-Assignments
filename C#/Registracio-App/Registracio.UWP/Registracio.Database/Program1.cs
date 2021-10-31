@@ -16,7 +16,7 @@ namespace Registracio.Database
         {
             Console.WriteLine("Academia rules!");
 
-            var connection = @"Data Source=Donau.hiof.no; Initial Catalog=trevol; User ID=trevol; Password=rTKd47Vt;";
+            var connection = @"Data Source=Donau.hiof.no; Initial Catalog=trevol; User ID=trevol; Password=;";
             var optionsBuilder = new DbContextOptionsBuilder<RegistracioWebApplicationContext>();
             optionsBuilder.UseSqlServer(connection);
 
