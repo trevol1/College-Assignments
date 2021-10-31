@@ -1,0 +1,51 @@
+h2, h3, h4, a {
+margin-left: 10px;
+color: indianred;
+}
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: red;
+}
+img {
+    width: 700px;
+    height: 500px;
+    margin-left: 10px;
+}
+img.Validator {
+    width: 300px;
+    height: 200px;
+    margin-left: 10px;
+}
+main {
+    margin-top:-20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 800px;
+    background-color: aqua;
+    
+}
+img.katt {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+h3{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: indianred;
+    
+}
+/**body {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    max-width: 1000px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: indianred;
+    background-color: lightskyblue;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+}**/

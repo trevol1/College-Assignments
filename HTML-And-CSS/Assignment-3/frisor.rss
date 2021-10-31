@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Hår og skjønnet</title>
+  <link>http://www.haarogskjonnhet.no</link>
+  <description>Nye produkter</description>
+  <item>
+    <title>Oppdaterte priser</title>
+    <link>http://www.haarogskjonnhet.no</link>
+    <description>Oppdaterte priser</description>
+  </item>
+  <item>
+    <title>Nye tilbud</title>
+    <link>http://www.haarogskjonnhet.no</link>
+    <description>Nye tilbud hos Hår og skjønnhet</description>
+    <pubDate>Wed, 02 Oct 2002 13:00:00 GMT</pubDate>
+
+</item>
+
+</channel>
+</rss>

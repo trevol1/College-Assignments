@@ -1,0 +1,50 @@
+#wrapper-content{
+    padding-top: 70px;
+    width: 80%;
+    padding-bottom: 50px;
+}
+
+#page-header{
+    text-align: center;
+}
+
+#lorem{
+    padding-top: 50px;
+}
+
+.btnOblig{
+}
+
+.footer{
+    text-align: center;
+    color: white;
+}
+
+/*
+.btn-primary, .btn-primary:hover, .btn-primary:focus, .btn-primary.focus,
+.btn-primary:active, .btn-primary.active, .btn-primary:visited,
+.btn-primary:active:hover, .btn-primary.active:hover{
+    background-color: dimgray;
+    color:#fff;
+    border: none;
+    outline: none;
+} */
+
+.omMeg{
+    text-align: center;
+}
+
+#om{
+    color: white;
+}
+
+.om{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#h1{
+  padding-top: 25px;
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
