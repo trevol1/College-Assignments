@@ -1,0 +1,17 @@
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.WebApplication.deps.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.WebApplication.runtimeconfig.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.WebApplication.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.WebApplication.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.RazorAssemblyInfo.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.RazorAssemblyInfo.cs
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.WebApplication.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.WebApplication\obj\Debug\netcoreapp2.1\Registracio.WebApplication.csproj.CopyComplete

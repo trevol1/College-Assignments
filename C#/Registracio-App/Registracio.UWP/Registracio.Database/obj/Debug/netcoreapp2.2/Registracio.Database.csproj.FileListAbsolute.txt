@@ -1,0 +1,4 @@
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.2\Registracio.Database.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.2\Registracio.Database.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.2\Registracio.Database.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Database\obj\Debug\netcoreapp2.2\Registracio.Database.AssemblyInfo.cs

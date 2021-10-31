@@ -1,0 +1,35 @@
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\bin\Debug\netstandard2.0\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6_2\Academia.Model\obj\Debug\netstandard2.0\Registracio.Model.pdb

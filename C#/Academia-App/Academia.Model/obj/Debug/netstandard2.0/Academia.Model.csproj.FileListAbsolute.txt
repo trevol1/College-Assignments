@@ -1,0 +1,9 @@
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\bin\Debug\netstandard2.0\Academia.Model.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\bin\Debug\netstandard2.0\Academia.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\bin\Debug\netstandard2.0\Academia.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\obj\Debug\netstandard2.0\Academia.Model.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\obj\Debug\netstandard2.0\Academia.Model.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\obj\Debug\netstandard2.0\Academia.Model.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\obj\Debug\netstandard2.0\Academia.Model.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\obj\Debug\netstandard2.0\Academia.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.Model\obj\Debug\netstandard2.0\Academia.Model.pdb

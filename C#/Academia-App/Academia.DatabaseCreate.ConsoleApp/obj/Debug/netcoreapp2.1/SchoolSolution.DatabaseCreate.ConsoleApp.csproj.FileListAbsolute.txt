@@ -1,0 +1,80 @@
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\06a-RESTful-Services\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.deps.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.Model.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.Model.pdb
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Downloads\06-Samples\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6-1\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.deps.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\SchoolSolution.DataContext.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.csproj.CopyComplete
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.dll
+C:\Users\Trevo Ledrick\Documents\My_Personal_Files\Visa\Exercise6 – Kopi\Academia.DatabaseCreate.ConsoleApp\obj\Debug\netcoreapp2.1\SchoolSolution.DatabaseCreate.ConsoleApp.pdb

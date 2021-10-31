@@ -1,0 +1,96 @@
+h2, h3, a, math {
+margin-left: 20px;
+color: indianred;
+}
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: red;
+}
+img {
+    width: 700px;
+    height: 500px;
+    margin-left: 10px;
+}
+img.Validator {
+    width: 300px;
+    height: 200px;
+    margin-left: 10px;
+}
+main {
+    margin-top:-20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 800px;
+    background-color: aqua;
+    
+}
+img.katt {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+h4{
+    margin-top: 20px;
+    margin-left: 10px;
+    color: dodgerblue;
+    
+}
+
+br {
+    
+    margin-top: 500px;
+}
+
+hr {
+   margin-top: 300px; 
+}
+
+div {
+    width: 150px;
+    height: 150px;
+    background-color: darkmagenta;
+    position: relative;
+    -webkit-animation: Trevo 8s linear 4s infinite alternate;
+    animation: Trevo 8s linear 4s infinite alternate;
+    animation-delay: 1s;
+}
+
+/** Chrome, Safari, Opera **/
+@-webkit-keyframes Trevo {
+    0%      {background-color: darkmagenta; left: 0px; top: 0px;}
+    
+    25%     {background-color: mediumblue; left: 265px; top: 0px;}
+    
+    50%     {background-color: forestgreen; left: 265px; top: 265px;}
+    
+    75%     {background-color:greenyellow; left: 0px; top: 265px;}
+    
+    100%    {background-color: deeppink; left: 0px; top: 0px;}
+}
+@font-face {
+    font-family: Ledrick;
+    src:url("Walt_Disney_Script.eot?") format("eot"), url("Walt_Disney_Script.woff") format("woff"), url("Walt_Disney_Script.ttf") format("truetype"), url("Walt_Disney_Script.svg#WaltDisneyScriptv4.1") format("svg");
+    font-weight:normal;
+    font-style:normal;}
+
+p.Font{
+    font-family: Ledrick, cursive, sans-serif;
+    margin-left: 25px;
+}
+
+
+
+/**body {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    max-width: 1000px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    color: indianred;
+    background-color: lightskyblue;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+}**/

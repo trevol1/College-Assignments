@@ -1,0 +1,8 @@
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\bin\Debug\netcoreapp2.1\Registracio.Model.deps.json
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\bin\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\bin\Debug\netcoreapp2.1\Registracio.Model.pdb
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\obj\Debug\netcoreapp2.1\Registracio.Model.csproj.CoreCompileInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\obj\Debug\netcoreapp2.1\Registracio.Model.AssemblyInfoInputs.cache
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\obj\Debug\netcoreapp2.1\Registracio.Model.AssemblyInfo.cs
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\obj\Debug\netcoreapp2.1\Registracio.Model.dll
+C:\Users\Trevo Ledrick\source\repos\Registracio.UWP\Registracio.Model\obj\Debug\netcoreapp2.1\Registracio.Model.pdb
